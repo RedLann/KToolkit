@@ -1,0 +1,3 @@
+rootProject.name = "KToolkit"
+include ':app'
+include ':toolkit'
